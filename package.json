@@ -19,7 +19,7 @@
     "@babel/core": "7.10.2",
     "@wordpress/babel-preset-default": "3.0.2",
     "autoprefixer": "9.8.0",
-    "bourbon": "5.1.0",
+    "bourbon": "7.0.0",
     "grunt": "1.1.0",
     "grunt-babel": "8.0.0",
     "grunt-checktextdomain": "1.0.1",
